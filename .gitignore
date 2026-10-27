@@ -1,0 +1,35 @@
+# data (download separately, see README)
+data_raw/
+data/
+dataset/
+
+# generated
+models/
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# environment
+.venv/
+venv/
+env/
+.env
+
+# LaTeX build files
+*.aux
+*.bbl
+*.blg
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.nav
+*.snm
+*.toc
+*.synctex.gz
+
+# OS and IDE files
+.DS_Store
+.vscode/
+.idea/
