@@ -105,12 +105,3 @@ Note for macOS: XGBoost and PyTorch each load their own OpenMP library and crash
 - No weather forecasts, which limits any evening-before prediction.
 - The temporal model is sensitive to the random seed; a deployed version should average several seeds.
 
-## Team
-
-| Member | Part |
-|---|---|
-| Atanu Adhikari | Phase 2 setup, notebook 06 (data pipeline), Makefile, protocol tests, presentation |
-| Sambhav Kumar | Notebook 07 (embedding MLP and temporal model) |
-| Nishant Ranjan Singh | Notebook 08 (hybrid models) |
-| Sankalp M Tellur | Notebook 09 (ablation studies), report |
-| Prince Singh | Notebook 10 (evaluation, calibration, report tables) |
